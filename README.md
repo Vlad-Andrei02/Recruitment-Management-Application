@@ -1,4 +1,3 @@
-This C++ program was developed to assist HR teams in IT companies with streamlining their 
-employee recruitment processes. The primary functionalities of the application include reading 
-candidate information from the file and performing subsequent operations such as filtering and 
-selection, interview scheduling, and skill assessment. 
+This C++ program is designed to help HR teams in IT companies streamline recruitment by 
+leveraging flows to improve candidate data management, filtering, selection, interview 
+scheduling, and skill assessment. 
