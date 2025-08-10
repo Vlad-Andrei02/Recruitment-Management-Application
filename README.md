@@ -1,3 +1,1 @@
-This C++ program is designed to help HR teams in IT companies streamline recruitment by 
-leveraging flows to improve candidate data management, filtering, selection, interview 
-scheduling, and skill assessment. 
+I developed a C++ application designed to assist the HR department of an IT company in managing the employee recruitment process, featuring customizable workflows to automate common hiring steps. The program reads and writes candidate data from CSV files, supports filtering applicants based on education level and work experience, schedules interviews, and tracks candidates’ progress through different recruitment stages. It also includes functionality for job posting display, candidate search, interview management, and error analytics for each workflow step, all accessible through an interactive console menu.
